@@ -2,5 +2,5 @@
 Toggle wh.
 
 # Keys
-Z - Toggle
+Z - Toggle <br />
 Delete - Exit
